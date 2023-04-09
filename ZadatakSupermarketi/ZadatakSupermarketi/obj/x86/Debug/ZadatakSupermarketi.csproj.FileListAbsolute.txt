@@ -1,0 +1,8 @@
+c:\users\jasmina\documents\visual studio 2010\Projects\ZadatakSupermarketi\ZadatakSupermarketi\bin\Debug\ZadatakSupermarketi.exe
+c:\users\jasmina\documents\visual studio 2010\Projects\ZadatakSupermarketi\ZadatakSupermarketi\bin\Debug\ZadatakSupermarketi.pdb
+c:\users\jasmina\documents\visual studio 2010\Projects\ZadatakSupermarketi\ZadatakSupermarketi\obj\x86\Debug\ZadatakSupermarketi.Form1.resources
+c:\users\jasmina\documents\visual studio 2010\Projects\ZadatakSupermarketi\ZadatakSupermarketi\obj\x86\Debug\ZadatakSupermarketi.Properties.Resources.resources
+c:\users\jasmina\documents\visual studio 2010\Projects\ZadatakSupermarketi\ZadatakSupermarketi\obj\x86\Debug\ZadatakSupermarketi.csproj.GenerateResource.Cache
+c:\users\jasmina\documents\visual studio 2010\Projects\ZadatakSupermarketi\ZadatakSupermarketi\obj\x86\Debug\ZadatakSupermarketi.exe
+c:\users\jasmina\documents\visual studio 2010\Projects\ZadatakSupermarketi\ZadatakSupermarketi\obj\x86\Debug\ZadatakSupermarketi.pdb
+C:\Users\Jasmina\documents\visual studio 2010\Projects\ZadatakSupermarketi\ZadatakSupermarketi\obj\x86\Debug\ZadatakSupermarketi.csprojResolveAssemblyReference.cache
